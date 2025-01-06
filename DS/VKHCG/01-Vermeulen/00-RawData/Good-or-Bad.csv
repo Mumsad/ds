@@ -1,0 +1,22 @@
+ID,FieldA,FieldB,FieldC,FieldD,FieldE,FieldF,FieldG
+1.0,Good,Better,Best,1024.0,,10241.0,1
+2.0,Good,,Best,512.0,,5121.0,2
+3.0,Good,Better,,256.0,,256.0,3
+4.0,Good,Better,Best,,,211.0,4
+5.0,Good,Better,,64.0,,6411.0,5
+6.0,Good,,Best,32.0,,32.0,6
+7.0,,Better,Best,16.0,,1611.0,7
+8.0,,,Best,8.0,,8111.0,8
+9.0,,,,4.0,,41.0,9
+10.0,A,B ,C,2.0,,21111.0,10
+,,,,,,,11
+10.0,Good,Better,Best,1024.0,,102411.0,12
+10.0,Good,,Best,512.0,,512.0,13
+10.0,Good,Better,,256.0,,1256.0,14
+10.0,Good,Better,Best,,,,15
+10.0,Good,Better,,64.0,,164.0,16
+10.0,Good,,Best,32.0,,322.0,17
+10.0,,Better,Best,16.0,,163.0,18
+10.0,,,Best,8.0,,844.0,19
+10.0,,,,4.0,,4555.0,20
+10.0,A,B ,C,2.0,,111.0,21

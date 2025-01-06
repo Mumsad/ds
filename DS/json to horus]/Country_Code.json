@@ -1,0 +1,38 @@
+{
+  "United States": {
+    "Country": "United States",
+    "ISO-2-CODE": "US",
+    "ISO-3-Code": "USA",
+    "ISO-M49": 840
+  },
+  "Canada": {
+    "Country": "Canada",
+    "ISO-2-CODE": "CA",
+    "ISO-3-Code": "CAN",
+    "ISO-M49": 124
+  },
+  "Mexico": {
+    "Country": "Mexico",
+    "ISO-2-CODE": "MX",
+    "ISO-3-Code": "MEX",
+    "ISO-M49": 484
+  },
+  "Germany": {
+    "Country": "Germany",
+    "ISO-2-CODE": "DE",
+    "ISO-3-Code": "DEU",
+    "ISO-M49": 276
+  },
+  "France": {
+    "Country": "France",
+    "ISO-2-CODE": "FR",
+    "ISO-3-Code": "FRA",
+    "ISO-M49": 250
+  },
+  "Italy": {
+    "Country": "Italy",
+    "ISO-2-CODE": "IT",
+    "ISO-3-Code": "ITA",
+    "ISO-M49": 380
+  }
+}

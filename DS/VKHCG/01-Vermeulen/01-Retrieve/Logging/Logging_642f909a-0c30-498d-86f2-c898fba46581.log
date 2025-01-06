@@ -1,0 +1,120 @@
+01-04 18:32 root         INFO     Practical Data Science is fun!
+01-04 18:32 Application-01-Vermeulen-01-Retrieve-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:32 Application-01-Vermeulen-01-Retrieve-info INFO     Practical Data Science logged information message.
+01-04 18:32 Application-01-Vermeulen-01-Retrieve-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:32 Application-01-Vermeulen-01-Retrieve-error ERROR    Practical Data Science logged an error message.
+01-04 18:32 root         INFO     Practical Data Science is fun!
+01-04 18:32 Application-01-Vermeulen-02-Assess-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:32 Application-01-Vermeulen-02-Assess-info INFO     Practical Data Science logged information message.
+01-04 18:32 Application-01-Vermeulen-02-Assess-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:32 Application-01-Vermeulen-02-Assess-error ERROR    Practical Data Science logged an error message.
+01-04 18:32 root         INFO     Practical Data Science is fun!
+01-04 18:32 Application-01-Vermeulen-03-Process-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:32 Application-01-Vermeulen-03-Process-info INFO     Practical Data Science logged information message.
+01-04 18:32 Application-01-Vermeulen-03-Process-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:32 Application-01-Vermeulen-03-Process-error ERROR    Practical Data Science logged an error message.
+01-04 18:32 root         INFO     Practical Data Science is fun!
+01-04 18:32 Application-01-Vermeulen-04-Transform-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:32 Application-01-Vermeulen-04-Transform-info INFO     Practical Data Science logged information message.
+01-04 18:32 Application-01-Vermeulen-04-Transform-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:32 Application-01-Vermeulen-04-Transform-error ERROR    Practical Data Science logged an error message.
+01-04 18:32 root         INFO     Practical Data Science is fun!
+01-04 18:32 Application-01-Vermeulen-05-Organise-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:32 Application-01-Vermeulen-05-Organise-info INFO     Practical Data Science logged information message.
+01-04 18:32 Application-01-Vermeulen-05-Organise-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:32 Application-01-Vermeulen-05-Organise-error ERROR    Practical Data Science logged an error message.
+01-04 18:32 root         INFO     Practical Data Science is fun!
+01-04 18:32 Application-01-Vermeulen-06-Report-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:32 Application-01-Vermeulen-06-Report-info INFO     Practical Data Science logged information message.
+01-04 18:32 Application-01-Vermeulen-06-Report-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:32 Application-01-Vermeulen-06-Report-error ERROR    Practical Data Science logged an error message.
+01-04 18:32 root         INFO     Practical Data Science is fun!
+01-04 18:32 Application-02-Krennwallner-01-Retrieve-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:32 Application-02-Krennwallner-01-Retrieve-info INFO     Practical Data Science logged information message.
+01-04 18:32 Application-02-Krennwallner-01-Retrieve-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:32 Application-02-Krennwallner-01-Retrieve-error ERROR    Practical Data Science logged an error message.
+01-04 18:32 root         INFO     Practical Data Science is fun!
+01-04 18:32 Application-02-Krennwallner-02-Assess-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:32 Application-02-Krennwallner-02-Assess-info INFO     Practical Data Science logged information message.
+01-04 18:32 Application-02-Krennwallner-02-Assess-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:32 Application-02-Krennwallner-02-Assess-error ERROR    Practical Data Science logged an error message.
+01-04 18:32 root         INFO     Practical Data Science is fun!
+01-04 18:32 Application-02-Krennwallner-03-Process-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:32 Application-02-Krennwallner-03-Process-info INFO     Practical Data Science logged information message.
+01-04 18:32 Application-02-Krennwallner-03-Process-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:32 Application-02-Krennwallner-03-Process-error ERROR    Practical Data Science logged an error message.
+01-04 18:32 root         INFO     Practical Data Science is fun!
+01-04 18:32 Application-02-Krennwallner-04-Transform-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:32 Application-02-Krennwallner-04-Transform-info INFO     Practical Data Science logged information message.
+01-04 18:32 Application-02-Krennwallner-04-Transform-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:32 Application-02-Krennwallner-04-Transform-error ERROR    Practical Data Science logged an error message.
+01-04 18:32 root         INFO     Practical Data Science is fun!
+01-04 18:32 Application-02-Krennwallner-05-Organise-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:32 Application-02-Krennwallner-05-Organise-info INFO     Practical Data Science logged information message.
+01-04 18:32 Application-02-Krennwallner-05-Organise-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:32 Application-02-Krennwallner-05-Organise-error ERROR    Practical Data Science logged an error message.
+01-04 18:32 root         INFO     Practical Data Science is fun!
+01-04 18:32 Application-02-Krennwallner-06-Report-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:32 Application-02-Krennwallner-06-Report-info INFO     Practical Data Science logged information message.
+01-04 18:32 Application-02-Krennwallner-06-Report-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:32 Application-02-Krennwallner-06-Report-error ERROR    Practical Data Science logged an error message.
+01-04 18:32 root         INFO     Practical Data Science is fun!
+01-04 18:32 Application-03-Hillman-01-Retrieve-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:32 Application-03-Hillman-01-Retrieve-info INFO     Practical Data Science logged information message.
+01-04 18:32 Application-03-Hillman-01-Retrieve-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:32 Application-03-Hillman-01-Retrieve-error ERROR    Practical Data Science logged an error message.
+01-04 18:32 root         INFO     Practical Data Science is fun!
+01-04 18:32 Application-03-Hillman-02-Assess-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:32 Application-03-Hillman-02-Assess-info INFO     Practical Data Science logged information message.
+01-04 18:32 Application-03-Hillman-02-Assess-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:32 Application-03-Hillman-02-Assess-error ERROR    Practical Data Science logged an error message.
+01-04 18:32 root         INFO     Practical Data Science is fun!
+01-04 18:32 Application-03-Hillman-03-Process-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:32 Application-03-Hillman-03-Process-info INFO     Practical Data Science logged information message.
+01-04 18:32 Application-03-Hillman-03-Process-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:33 Application-03-Hillman-03-Process-error ERROR    Practical Data Science logged an error message.
+01-04 18:33 root         INFO     Practical Data Science is fun!
+01-04 18:33 Application-03-Hillman-04-Transform-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:33 Application-03-Hillman-04-Transform-info INFO     Practical Data Science logged information message.
+01-04 18:33 Application-03-Hillman-04-Transform-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:33 Application-03-Hillman-04-Transform-error ERROR    Practical Data Science logged an error message.
+01-04 18:33 root         INFO     Practical Data Science is fun!
+01-04 18:33 Application-03-Hillman-05-Organise-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:33 Application-03-Hillman-05-Organise-info INFO     Practical Data Science logged information message.
+01-04 18:33 Application-03-Hillman-05-Organise-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:33 Application-03-Hillman-05-Organise-error ERROR    Practical Data Science logged an error message.
+01-04 18:33 root         INFO     Practical Data Science is fun!
+01-04 18:33 Application-03-Hillman-06-Report-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:33 Application-03-Hillman-06-Report-info INFO     Practical Data Science logged information message.
+01-04 18:33 Application-03-Hillman-06-Report-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:33 Application-03-Hillman-06-Report-error ERROR    Practical Data Science logged an error message.
+01-04 18:33 root         INFO     Practical Data Science is fun!
+01-04 18:33 Application-04-Clark-01-Retrieve-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:33 Application-04-Clark-01-Retrieve-info INFO     Practical Data Science logged information message.
+01-04 18:33 Application-04-Clark-01-Retrieve-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:33 Application-04-Clark-01-Retrieve-error ERROR    Practical Data Science logged an error message.
+01-04 18:33 root         INFO     Practical Data Science is fun!
+01-04 18:33 Application-04-Clark-02-Assess-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:33 Application-04-Clark-02-Assess-info INFO     Practical Data Science logged information message.
+01-04 18:33 Application-04-Clark-02-Assess-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:33 Application-04-Clark-02-Assess-error ERROR    Practical Data Science logged an error message.
+01-04 18:33 root         INFO     Practical Data Science is fun!
+01-04 18:33 Application-04-Clark-03-Process-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:33 Application-04-Clark-03-Process-info INFO     Practical Data Science logged information message.
+01-04 18:33 Application-04-Clark-03-Process-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:33 Application-04-Clark-03-Process-error ERROR    Practical Data Science logged an error message.
+01-04 18:33 root         INFO     Practical Data Science is fun!
+01-04 18:33 Application-04-Clark-04-Transform-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:33 Application-04-Clark-04-Transform-info INFO     Practical Data Science logged information message.
+01-04 18:33 Application-04-Clark-04-Transform-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:33 Application-04-Clark-04-Transform-error ERROR    Practical Data Science logged an error message.
+01-04 18:33 root         INFO     Practical Data Science is fun!
+01-04 18:33 Application-04-Clark-05-Organise-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:33 Application-04-Clark-05-Organise-info INFO     Practical Data Science logged information message.
+01-04 18:33 Application-04-Clark-05-Organise-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:33 Application-04-Clark-05-Organise-error ERROR    Practical Data Science logged an error message.
+01-04 18:33 root         INFO     Practical Data Science is fun!
+01-04 18:33 Application-04-Clark-06-Report-debug DEBUG    Practical Data Science logged a debugging message.
+01-04 18:33 Application-04-Clark-06-Report-info INFO     Practical Data Science logged information message.
+01-04 18:33 Application-04-Clark-06-Report-warning WARNING  Practical Data Science logged a warning message.
+01-04 18:33 Application-04-Clark-06-Report-error ERROR    Practical Data Science logged an error message.

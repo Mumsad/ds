@@ -1,0 +1,38 @@
+<root>
+    <entry>
+        <Country>United States</Country>
+        <ISO-2-CODE>US</ISO-2-CODE>
+        <ISO-3-Code>USA</ISO-3-Code>
+        <ISO-M49>840</ISO-M49>
+    </entry>
+    <entry>
+        <Country>Canada</Country>
+        <ISO-2-CODE>CA</ISO-2-CODE>
+        <ISO-3-Code>CAN</ISO-3-Code>
+        <ISO-M49>124</ISO-M49>
+    </entry>
+    <entry>
+        <Country>Mexico</Country>
+        <ISO-2-CODE>MX</ISO-2-CODE>
+        <ISO-3-Code>MEX</ISO-3-Code>
+        <ISO-M49>484</ISO-M49>
+    </entry>
+    <entry>
+        <Country>Germany</Country>
+        <ISO-2-CODE>DE</ISO-2-CODE>
+        <ISO-3-Code>DEU</ISO-3-Code>
+        <ISO-M49>276</ISO-M49>
+    </entry>
+    <entry>
+        <Country>France</Country>
+        <ISO-2-CODE>FR</ISO-2-CODE>
+        <ISO-3-Code>FRA</ISO-3-Code>
+        <ISO-M49>250</ISO-M49>
+    </entry>
+    <entry>
+        <Country>Italy</Country>
+        <ISO-2-CODE>IT</ISO-2-CODE>
+        <ISO-3-Code>ITA</ISO-3-Code>
+        <ISO-M49>380</ISO-M49>
+    </entry>
+</root>
